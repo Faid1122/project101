@@ -1,6 +1,38 @@
-Make simple 2 files 
-index.html
-styles.css
+Making a static web page
 .
-Add basic code
+Using a class in dev main-grid
 .
+Then divid it in 3 parts
+    Header
+    main
+    Footer
+.
+Header:
+    using img tag and giving class "logo"
+
+    adding nav tag class "nav" with 4 "a" tag by a.nav__link*4 w
+
+
+
+Main:
+    adding h1 tag with class "title" using h1.title
+    adding p tag with class "location" 
+    adding img tag with class "primary-image"
+    adding div with class "secondary-images"
+        adding 2 img tag with class "secondary-image"
+    adding button with class "btn"
+
+
+Footer:
+    adding div with class "social-links"
+    adding a tag with class "social-link"
+
+
+
+
+
+CSS:-
+    Reset (*): Ensures consistent box-sizing for all elements, including pseudo-elements.
+    :root with custom properties: Defines reusable global variables for colors, which simplify design consistency and theming.
+
+    
